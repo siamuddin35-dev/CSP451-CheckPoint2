@@ -42,3 +42,4 @@ To intentionally create a merge conflict, edit the same lines in one of:
 npm test
 npm run lint
 ```
+* Added database connection module with error handling and status checks.
