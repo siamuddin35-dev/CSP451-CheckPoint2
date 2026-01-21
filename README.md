@@ -1,5 +1,5 @@
+# CSP451 - Integrated Web Project Features
 # CSP451 Web Starter — Week 2 Checkpoint 2
-
 This repository is a **starter template** for practicing:
 - Git branching strategies (GitHub Flow / Git Flow-lite)
 - Pull Requests + review workflow
@@ -42,3 +42,5 @@ To intentionally create a merge conflict, edit the same lines in one of:
 npm test
 npm run lint
 ```
+* Added database connection module with error handling and status checks.
+* Implemented REST API endpoints for user management.
